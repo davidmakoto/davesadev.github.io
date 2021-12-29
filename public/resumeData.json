@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"David Ward",
+    "description":"I am a recent graduate with experience in using Python and C/C++ for data analysis and scientific research. --- I am a web development engineer and I use react and vue.js to develop pages.",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "DavidMacotoWard@gmail.com",
+    "phone": "310-433-9176",
+    "github":"https://github.com/dmw01",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Los Angeles",
+      "state":"Califorina",
+      "zip": "91411"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -30,7 +30,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/davidmacotoward/",
         "className":"fa fa-linkedin"
       },
       {
@@ -49,16 +49,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"California State University, Northridge?",
+        "degree":"B.S. in Computer Science",
+        "graduated":"December 2021",
+        "description":" -- Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
@@ -81,47 +75,47 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"C++",
+        "level":"65%"
       },
       {
-        "name":"ReactJs",
+        "name":"C",
+        "level":"40%"
+      },
+      {
+        "name":"Java",
+        "level":"45%"
+      },
+      {
+        "name":"Pandas",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":" Shell (Bash)",
+        "level":"45%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Javascript",
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"GPU Enabled Protein Conformational Sampling",
         "category":"My Travel Blog for my post-university travels",
         "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"ML Assisted Wildfire Prediction in CA",
         "category":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Screeps: Sandbox Programming Game",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
