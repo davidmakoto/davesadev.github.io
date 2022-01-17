@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"David Ward",
-    "description":"I am a recent graduate with experience in using Python and C/C++ for data analysis and scientific research. --- I am a web development engineer and I use react and vue.js to develop pages.",
+    "description":"I am a recent graduate with experience in using Python and C/C++ for data analysis and scientific research.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I'm more or less a big nerd and I really enjoy learning new technologies and automating whatever I can. My primary experience is in developing small efficent solutions and troubleshooting any number of issues that may arise. I think we all stand on the shoulders of giants that came before us and contributing to that makes technology infinitely exciting. -- Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "DavidMacotoWard@gmail.com",
     "phone": "310-433-9176",
