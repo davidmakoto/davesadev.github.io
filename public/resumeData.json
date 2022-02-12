@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"David Ward",
-    "description":"I am a recent graduate with experience in using Python and C/C++ for data analysis and scientific research.",
+    "description":"I am a recent graduate with experience in using Python and C/C++ for data analysis and scientific research",
     "image":"profilepic.jpg",
     "bio":"I'm more or less a big nerd and I really enjoy learning new technologies and automating whatever I can. My primary experience is in developing small efficent solutions and troubleshooting any number of issues that may arise. I think we all stand on the shoulders of giants that came before us and contributing to that makes technology infinitely exciting. -- Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -103,21 +103,21 @@
   "portfolio":{
     "projects": [
       {
-        "title":"GPU Enabled Protein Conformational Sampling",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"gpu_gpcr_cover_img.png",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"GPCR Protein Domain Annotations",
+        "title":"Protein Domain Annotations Database",
         "category":"My Travel Blog for my post-university travels",
         "image":"gpcr.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
+        "title":"GPU Enabled Protein Conformational Sampling",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"TM7-graphic.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
         "title":"ML Assisted Wildfire Prediction in CA",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
+        "category":"",
+        "image":"forrest-fire.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
@@ -131,54 +131,6 @@
         "category":"A React based resume website template",
         "image":"04.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
