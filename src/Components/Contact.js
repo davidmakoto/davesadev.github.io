@@ -110,10 +110,10 @@ class Contact extends Component {
                 <p className="address">
                   {name}
                   <br />
-                  {street} <br />
+                  {/* {street} <br /> */}
                   {city}, {state} {zip}
-                  <br />
-                  <span>{phone}</span>
+                  {/* <br />
+                  <span>{phone}</span> */}
                 </p>
               </div>
 

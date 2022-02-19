@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"David Ward",
-    "description":"I am a recent graduate with experience in using Python and C/C++ for data analysis and scientific research",
+    "description":"New grad proficent in using Python and C++ for data analysis and slightly proficcent in fullstack development using Microsoft's dotnet technologies",
     "image":"profilepic.jpg",
-    "bio":"I'm more or less a big nerd and I really enjoy learning new technologies and automating whatever I can. My primary experience is in developing small efficent solutions and troubleshooting any number of issues that may arise. I think we all stand on the shoulders of giants that came before us and contributing to that makes technology infinitely exciting. -- Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I like automating whatever I can and learning new technologies. I have the most experience with data analysis in C++/Python followed by full stack web development with the DOTNET entity framework stack with Angular. Over the years I'd say my greatest skill is in troubleshooting. I think technology is at the core of what powers a lot of our modern world and that makes contributing it infinitely exciting.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "DavidMacotoWard@gmail.com",
-    "phone": "310-433-9176",
+    "phone": "310-555-5555",
     "github":"https://github.com/dmw01",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
       "city":"Los Angeles",
-      "state":"Califorina",
+      "state":"California",
       "zip": "91411"
     },
     "website": "http://www.timbakerdev.com",
@@ -57,8 +57,8 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
+        "company":"CSUN Research Lab",
+        "title":"Student researcher ",
         "years":"March 2018 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
@@ -67,6 +67,12 @@
         "title":"Tutor",
         "years":"Jan 2017 - Jun 2018",
         "description":"Tutored 11 undergraduate math, chemistry, and computer science courses. Worked with an average of 2-4 students at a time for ~15 hours a week"
+      },
+      {
+        "company":"UCLA",
+        "title":"Summer intern",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
@@ -87,16 +93,8 @@
         "level":"45%"
       },
       {
-        "name":"Pandas",
-        "level":"50%"
-      },
-      {
-        "name":" Shell (bsh/zsh)",
-        "level":"45%"
-      },
-      {
         "name":"Javascript",
-        "level":"40%"
+        "level":"50%"
       }
     ]
   },
@@ -105,32 +103,32 @@
       {
         "title":"Protein Domain Annotations Database",
         "category":"My Travel Blog for my post-university travels",
-        "image":"gpcr.png",
+        "image":"gpcr4.jpg",
         "url":"https://github.com/dmw01/pandos-dotnet"
       },
       {
         "title":"GPU Enabled Protein Conformational Sampling",
         "category":"My Travel Blog for my post-university travels",
         "image":"TM7-graphic.png",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/dmw01/SuperBihelix-Python"
       },
       {
-        "title":"ML Assisted Wildfire Prediction in CA",
+        "title":"Wildfire Prediction using ML in python",
         "category":"",
         "image":"fire-incident.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/KayleePham/Beat-the-Heat--Machine-Learning"
+      },
+      {
+        "title":"Showcase Website for ML Wildfire Prediction",
+        "category":"",
+        "image":"forrest-fire.jpg",
+        "url":"https://github.com/KayleePham/Beat-the-Heat--Machine-Learning/tree/master/Senior-Design-Website-Template"
       },
       {
         "title":"Screeps: Sandbox Programming Game",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"screeps-logo.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/dmw01/Screeps"
       }
     ]
   }
