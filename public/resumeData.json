@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"David Ward",
-    "description":"New grad proficent in using Python and C++ for data analysis and slightly proficcent in fullstack development using Microsoft's dotnet technologies",
+    "description":"New grad proficent in data analysis and slightly proficent in fullstack development",
     "image":"profilepic.jpg",
     "bio":"I like automating whatever I can and learning new technologies. I have the most experience with data analysis in C++/Python followed by full stack web development with the DOTNET entity framework stack with Angular. Over the years I'd say my greatest skill is in troubleshooting. I think technology is at the core of what powers a lot of our modern world and that makes contributing it infinitely exciting.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -37,7 +37,7 @@
         "name":"instagram",
         "url":"http://instagram.com/mackohdough",
         "className":"fa fa-instagram"
-      },
+      },  
       {
         "name":"github",
         "url":"https://github.com/dmw01",
@@ -78,23 +78,23 @@
     "skills":[
       {
         "name":"Python",
-        "level":"60%"
+        "level":"75%"
       },
       {
         "name":"C++",
         "level":"65%"
       },
       {
-        "name":"C",
-        "level":"40%"
+        "name":"Javascript",
+        "level":"55%"
       },
       {
         "name":"Java",
-        "level":"45%"
+        "level":"50%"
       },
       {
-        "name":"Javascript",
-        "level":"50%"
+        "name":"C#",
+        "level":"40%"
       }
     ]
   },

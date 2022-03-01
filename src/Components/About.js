@@ -17,7 +17,7 @@ class About extends Component {
     const resumeDownload = this.props.data.resumedownload;
 
     return (
-      <section id="about">
+      <section id="about ">
         <Fade duration={1000}>
           <div className="row">
             <div className="three columns">
