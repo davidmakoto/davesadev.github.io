@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"David Ward",
-    "description":"New grad proficent in data analysis and slightly proficent in fullstack development",
+    "description":"Software engineer with experience in data analysis as well as in fullstack web development",
     "image":"profilepic.jpg",
-    "bio":"I like automating whatever I can and learning new technologies. I have the most experience with data analysis in C++/Python followed by full stack web development with the DOTNET entity framework stack with Angular. Over the years I'd say my greatest skill is in troubleshooting. I think technology is at the core of what powers a lot of our modern world and that makes contributing it infinitely exciting.",
+    "bio":"I like automating whatever I can and learning new technologies. I have the most experience with data analysis followed by full stack web development with the .NET entity framework stack with Angular. I believe technology powers the modern world and that makes contributing to it infinitely exciting.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "DavidMacotoWard@gmail.com",
     "phone": "310-555-5555",
