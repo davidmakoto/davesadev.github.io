@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"David Ward",
-    "description":"Software engineer with experience in data analysis as well as in fullstack web development",
+    "description":"Software engineer with experience in fullstack development and big data",
     "image":"profilepic.jpg",
-    "bio":"I like automating whatever I can and learning new technologies. I have the most experience with data analysis followed by full stack web development with the .NET entity framework stack with Angular. I believe technology powers the modern world and that makes contributing to it infinitely exciting.",
+    "bio":"I like automating whatever I can and learning new technologies. I have the most experience with data analysis followed by full stack web development with the .NET entity framework stack with Angular. I believe technology powers the modern world and that makes contributing to it infinitely exciting. During my freetime you can find me being a foodie around LA with friends or playing with raspberry pi's and microcontrollers in attempts to automate daily chores.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "DavidMacotoWard@gmail.com",
     "phone": "310-555-5555",
@@ -25,12 +25,12 @@
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/ward2urmother",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/davidmacotoward/",
+        "url":"https://www.linkedin.com/in/davidmacotoward/",
         "className":"fa fa-linkedin"
       },
       {
@@ -60,7 +60,7 @@
         "company":"CSUN Research Lab",
         "title":"Student researcher ",
         "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Investigated techniques to reduce energy consumption of data centers using simulation software. Created 3D figures for symposium. PI: Dr. Xunfei Jiang"
       },
       {
         "company":"STEM Tutoring Lab",
@@ -72,25 +72,25 @@
         "company":"UCLA",
         "title":"Summer intern",
         "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Used MATLAB to search for hot pixels in a camera designed to highlight tumors for surgeons in real time. Included poster session and symposium presentations with audience of 200+ students."
       }
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"75%"
+        "level":"80%"
       },
       {
         "name":"C++",
-        "level":"65%"
+        "level":"70%"
       },
       {
         "name":"Javascript",
-        "level":"55%"
+        "level":"65%"
       },
       {
         "name":"Java",
-        "level":"50%"
+        "level":"55%"
       },
       {
         "name":"C#",
@@ -101,26 +101,33 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Protein Domain Annotations Database",
+        "title":"Membrane Protein Domains Motifs Annotations Database",
         "category":"My Travel Blog for my post-university travels",
+        "description": "Fullstack SPA containing novel protein domain data using the .NET entity framework for the backend and Angular for the frontend deployed on Apache server.",
+        "languages":"C#, Angular.js, MariaSQL, Apache",
         "image":"gpcr4.jpg",
         "url":"https://github.com/dmw01/pandos-dotnet"
       },
       {
         "title":"GPU Enabled Protein Conformational Sampling",
-        "category":"My Travel Blog for my post-university travels",
+        "description": "Created boilerplate code to organize GPCR protein information and enable parallel execution of structural bioinformatics simulation.",
+        "languages":"Python, CUDA C/C++",
         "image":"TM7-graphic.png",
         "url":"https://github.com/dmw01/SuperBihelix-Python"
       },
       {
-        "title":"Wildfire Prediction using ML in python",
+        "title":"Wildfire Prediction using ML on raw sattelite data",
         "category":"",
+        "description": "",
+        "languages":"Python, JupyterNotebook, NumPy, Pandas",
         "image":"fire-incident.png",
         "url":"https://github.com/KayleePham/Beat-the-Heat--Machine-Learning"
       },
       {
         "title":"Showcase Website for ML Wildfire Prediction",
         "category":"",
+        "description": "Created boilerplate code to organize GPCR protein information and enable parallel execution of structural bioinformatics simulation.",
+        "languages":"Python, CUDA C/C++",
         "image":"forrest-fire.jpg",
         "url":"https://github.com/KayleePham/Beat-the-Heat--Machine-Learning/tree/master/Senior-Design-Website-Template"
       },
@@ -131,5 +138,20 @@
         "url":"https://github.com/dmw01/Screeps"
       }
     ]
+  },
+
+
+  
+  "card":{
+    "projects": [
+      {
+        "title":"Protein Domain Annotations Database",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"gpcr4.jpg",
+        "url":"https://github.com/dmw01/pandos-dotnet"
+      }
+      
+    ]
   }
+
 }
