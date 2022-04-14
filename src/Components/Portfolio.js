@@ -31,32 +31,17 @@ class Portfolio extends Component {
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>
-
-
-            {/* <button onClick={() => this.displayAlert(projects.title)}>
-              {projects.title + ', ' + projects.title}
-            </button> */}
-
-            {/* <input type="button" onclick="location.href='https://google.com';" value="Go to Google" /> */}
-
-            {/* <button onclick="window.location.href='" + {projects.url} + "';">
-              View GitHub Page
-            </button> */}
-            {/* <Button /> */}
               <h2><a href={projects.url}>{projects.title}</a></h2>
               <div className="languages">
                 <p>{projects.languages} </p> 
               </div>
+              <div className="years">
+                <p>{projects.years} </p> 
+              </div>
               <b>
                 {projects.description} 
               </b> 
-
             </div>
-
-            {/* <a href={projects.url} className="button btn github-btn">
-              <i className="fa fa-github"></i>Github
-            </a> */}
-
             <ul className="social">
                 {/* <a href={project} className="button btn project-btn">
                   <i className="fa fa-book"></i>Project
@@ -73,7 +58,7 @@ class Portfolio extends Component {
     });
 
     return (
-      <section id="portfolio">
+    <section id="portfolio"> 
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
