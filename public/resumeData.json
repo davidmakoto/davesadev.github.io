@@ -117,7 +117,7 @@
         "title":"GPU Enabled \"SuperBihelix\" Protein Conformational Sampling",
         "description": "Created boilerplate code to organize GPCR protein information and enable parallel execution of structural bioinformatics simulation.",
         "languages":"Python, CUDA C/C++",
-        "image":"bihelix.gif",
+        "image":"bihelix-movie.gif",
         "url":"https://github.com/dmw01/SuperBihelix-Python",
         "years":"2020-2022"
 
