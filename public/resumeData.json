@@ -7,7 +7,7 @@
     "contactmessage":"Please reach out to me through LinkedIn or email through the form below for the quickest response .",
     "email": "DavidMacotoWard@gmail.com",
     "phone": "310-555-5555",
-    "github":"https://github.com/dmw01",
+    "github":"https://github.com/davesadev",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
@@ -118,7 +118,7 @@
         "description": "Created boilerplate code to organize GPCR protein information and enable parallel execution of structural bioinformatics simulation.",
         "languages":"Python, CUDA C/C++",
         "image":"bihelix-movie.gif",
-        "url":"https://github.com/dmw01/SuperBihelix-Python",
+        "url":"https://github.com/dmw01/SuperBihelix-GPU-public",
         "years":"2020-2022"
 
       },
