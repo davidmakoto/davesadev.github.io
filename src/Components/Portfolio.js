@@ -4,20 +4,6 @@ import React, { Component } from "react";
 import Zmage from "react-zmage";
 import Fade from "react-reveal";
 
-
-
-// class Button extends React.Component {
-//   btnClick() {
-//     window.open("https://www.google.com");
-//   }
-// render() {
-//     return (<div>
-//             <ButtonComponent cssClass='e-link' onClick={this.btnClick.bind(this)}>Go to google</ButtonComponent>
-//         </div>);
-//   }
-// }
-// ReactDOM.render(<App />, document.getElementById('button'));
-
 let id = 0;
 class Portfolio extends Component {
   render() {

@@ -1544,7 +1544,7 @@ ul#nav li.current a { color: #fe6928; }
    width: 58.33333%;
    padding-top: 6px;
 } */
-#portfolio .main-col { padding-right: 5  %; }
+#portfolio .main-col { padding-right: 5  %; };
 #portfolio .download .button {
    margin-top: 6px;
    background: #444;
