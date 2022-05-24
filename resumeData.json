@@ -6,23 +6,15 @@
     "bio":" I believe technology powers the modern world and that makes contributing to it infinitely exciting. During my freetime you can find me being a foodie around LA with friends or playing with raspberry pi's and microcontrollers in attempts to automate daily chores.",
     "contactmessage":"Please reach out to me through LinkedIn or email through the form below for the quickest response .",
     "email": "DavidMacotoWard@gmail.com",
-    "phone": "310-555-5555",
     "github":"https://github.com/davesadev",
     "project":"https://github.com/davesadev/davesadev.github.io",
     "address":{
-      "street":"(Your Street)",
       "city":"Los Angeles",
-      "state":"California",
-      "zip": "91411"
+      "state":"California"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/images/Post_grad_resume.pdf",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"twitter",
         "url":"http://twitter.com/ward2urmother",
@@ -34,13 +26,8 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/mackohdough",
-        "className":"fa fa-instagram"
-      },  
-      {
         "name":"github",
-        "url":"https://github.com/dmw01",
+        "url":"https://github.com/davesadev",
         "className":"fa fa-github"
       }
     ]
@@ -53,7 +40,7 @@
         "school":"California State University, Northridge",
         "degree":"B.S. in Computer Science",
         "graduated":"December 2021",
-        "description":" College was humbling and insightful and I'm very grateful for all of the people I've met and experiences I've had."
+        "description":"College taught me how to learn and surrounded me with valuable mentors."
       }
     ],
     "work":[
@@ -117,7 +104,7 @@
         "description": "Fullstack SPA containing novel protein domain data using the .NET entity framework for the backend and Angular for the frontend deployed on Apache server.",
         "languages":"C#, Angular.js, MariaSQL, Apache",
         "image":"Pandos_github_banner.png",
-        "url":"https://github.com/dmw01/pandos-dotnet",
+        "url":"https://github.com/davesadev/pandos-dotnet",
         "years":"2021-2022"
       },
       {
@@ -125,7 +112,7 @@
         "description": "Created boilerplate code to organize GPCR protein information and enable parallel execution of structural bioinformatics simulation.",
         "languages":"Python, CUDA C/C++",
         "image":"bihelix-movie.gif",
-        "url":"https://github.com/dmw01/SuperBihelix-GPU-public",
+        "url":"https://github.com/davesadev/SuperBihelix-GPU-public",
         "years":"2020-2022"
 
       },
@@ -153,7 +140,7 @@
         "description": "Strategy game played with javascript",
         "languages":"Javascript",
         "image":"screeps-logo.jpg",
-        "url":"https://github.com/dmw01/Screeps",
+        "url":"https://github.com/davesadev/Screeps",
         "years":"2019-2020"
       }
     ]
