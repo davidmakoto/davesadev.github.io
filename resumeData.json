@@ -8,7 +8,7 @@
     "email": "DavidMacotoWard@gmail.com",
     "phone": "310-555-5555",
     "github":"https://github.com/davesadev",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/davesadev/davesadev.github.io",
     "address":{
       "street":"(Your Street)",
       "city":"Los Angeles",
@@ -47,6 +47,7 @@
   },
   "resume":{
     "skillmessage":"Specalties: Full stack with .NET Framework and Angular and data analysis using Python.",
+    "frameworkmessage":"Frameworks",
     "education":[
       {
         "school":"California State University, Northridge",
@@ -100,6 +101,12 @@
         "name":"Bash",
         "level":"30%"
       }
+    ],
+    "frameworks":[
+      {
+        "name":"Flask",
+        "image":"Pandos_github_banner.png"
+      }
     ]
   },
   "portfolio":{
@@ -150,20 +157,5 @@
         "years":"2019-2020"
       }
     ]
-  },
-
-
-  
-  "card":{
-    "projects": [
-      {
-        "title":"Protein Domain Annotations Database",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"gpcr4.jpg",
-        "url":"https://github.com/dmw01/pandos-dotnet"
-      }
-      
-    ]
   }
-
 }
