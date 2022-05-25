@@ -104,7 +104,7 @@
         "description": "Fullstack SPA containing novel protein domain data using the .NET entity framework for the backend and Angular for the frontend deployed on Apache server.",
         "languages":"C#, Angular.js, MariaSQL, Apache",
         "image":"Pandos_github_banner.png",
-        "url":"https://github.com/davesadev/pandos-dotnet",
+        "url":"https://github.com/davesadev/pandos",
         "years":"2021-2022"
       },
       {
